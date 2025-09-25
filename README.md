@@ -6,6 +6,16 @@ Est une exigence fonctinnelle ou non fonctionnel exprimé par un utilisateur fin
 
  | Tâche à réaliser | Objectif | Contrainte |
  | :----------------| :------------: | ---------:|
+## Processus 
+| Analyse des besoins et du contexte | Spécification des exigence | Conceptionet prototypage | Evaluation et tests utilisteurs
+| :----------------| :------------: | :---------:| --------: |
+| Identification | Définition des objectif | Création de wireframes | Scénarios d'usage testés sur vrais utilisateurs
+| Etude des tâches | Identification des contraintes |Développement des maquettes| Collecte de feedback |
+| Observation|  | Prototypage interactif| Ajustements et itérations |
+
+Je suis actullement à l'étape des analyse des besoins et du contexte en etude des tâches à accomplir.
+
+En ajoutant des observateurs à mon projet Figma ,j'applique le principe fondamental de l'implication des utilisateurs.
 ## Calques
 Est une unité fondamentale de travail qui représente un élément individuel de la conception.
 Lors de la création et l'utilisation des calques il y a des bonnes pratiques à prendre qui sont de toujours les renommer , utiliser des groupes et des frames pour structurer , les verrouller pour ne pas les modifier par erreur et bien les organiser 
